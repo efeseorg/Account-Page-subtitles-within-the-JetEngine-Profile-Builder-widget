@@ -1,3 +1,4 @@
+<?php
 function get_dynamic_subpage_title() {
     global $wpdb, $wp;
 
